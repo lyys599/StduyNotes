@@ -1,0 +1,5 @@
+# 本项目已经安装CPU版PyTorch用于代码验证。
+# 如需启用RTX 4060，请访问 https://pytorch.org/get-started/locally/
+# 选择Windows + Pip + Python + 官方当前支持的CUDA构建，并运行选择器生成的命令。
+# 不建议直接通过本文件猜测CUDA下载地址。
+torch
